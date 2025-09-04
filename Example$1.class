@@ -1,0 +1,8 @@
+import java.util.*
+public class main{
+    public static void main(String args[]){
+        String name="Jyo";
+        int age=19;
+        double price=25.25;
+    }
+}
